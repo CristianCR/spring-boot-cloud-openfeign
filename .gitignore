@@ -1,0 +1,10 @@
+
+feignclient-consumer/.mvn/wrapper/
+
+feignclient-responder/.mvn/wrapper/
+
+*.cmd
+
+feignclient-consumer/mvnw
+
+feignclient-responder/mvnw
